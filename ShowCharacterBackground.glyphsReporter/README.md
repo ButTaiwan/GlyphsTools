@@ -15,7 +15,7 @@ After installation, turn it on or off by choosing *View > Show Character Backgro
 
 ## Custom Parameter | 自訂參數 | カスタムパラメータ
 
-### `CharBG Fonts`
+### 字型參數: `CharBG Fonts`
 
 `Font Name 1; Font Name 2, 60; Font Name 3, -40`
 
@@ -37,7 +37,7 @@ Y 軸をシフトしたい場合は、コマンの後ろに数値を入れてく
 このパラメータがしておかないとこのプラグインは作動しません。
 
 
-### `CharBG Color`
+### 字型參數: `CharBG Color`
 
 指定背景字顯示的顏色，請用 `RRGGBB` 格式書寫。若要指定透明度，請寫成 `RRGGBBAA`。
 

@@ -11,7 +11,7 @@
 ![Stupidify_Usage](Stupidify_Usage.png)
 
 1. 建立新字符來設計你要疊合的圖案。字符名稱必須是 `_stupid.XXX`，其中 *XXX* 表示文字語系，例如 *_stupid.han* (漢字), *_stupid.kana* (假名), *_stupid.bopomofo* (注音), *_stupid.hangul* (韓文)...，或是也可建立 `_stupid.any` 適用於所有文字（但應該沒什麼用）。
-2. 若有需要挖空的地方，可建立名為 `Mask` （大小寫需一樣）的圖層設計遮罩。
+2. 若有需要挖空的地方，可建立名為 `Mask` （大小寫需一樣）的圖層設計遮罩。
 3. 點選 濾鏡 > 耍笨 執行就可以了。
 4. 還可以在實體定義 Filter 自訂參數的方式，在匯出字型時才套用圖案。
 
