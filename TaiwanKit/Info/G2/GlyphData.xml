@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE glyphData [
+<!ELEMENT glyphData (glyph)+>
+<!ELEMENT glyph EMPTY>
+<!ATTLIST glyph
+	unicode			CDATA		#IMPLIED
+	unicodeLegecy	CDATA		#IMPLIED
+	name			CDATA		#REQUIRED
+	sortName		CDATA		#IMPLIED
+	sortNameKeep	CDATA		#IMPLIED
+	category		CDATA		#REQUIRED
+	subCategory		CDATA		#IMPLIED
+	script			CDATA		#IMPLIED
+	description		CDATA		#IMPLIED
+	production		CDATA		#IMPLIED
+	altNames		CDATA		#IMPLIED
+	decompose		CDATA		#IMPLIED
+	anchors			CDATA		#IMPLIED
+	accents			CDATA		#IMPLIED>
+]>
+<glyphData>
+    <glyph unicode="3105" name="b-bopomofo" sortName="bpmf001" category="Letter" script="bopomofo" production="uni3105" altNames="bbopomofo" description="BOPOMOFO LETTER B" />
+    <glyph unicode="3106" name="p-bopomofo" sortName="bpmf002" category="Letter" script="bopomofo" production="uni3106" altNames="pbopomofo" description="BOPOMOFO LETTER P" />
+    <glyph unicode="3107" name="m-bopomofo" sortName="bpmf003" category="Letter" script="bopomofo" production="uni3107" altNames="mbopomofo" description="BOPOMOFO LETTER M" />
+    <glyph unicode="3108" name="f-bopomofo" sortName="bpmf004" category="Letter" script="bopomofo" production="uni3108" altNames="fbopomofo" description="BOPOMOFO LETTER F" />
+    <glyph unicode="3109" name="d-bopomofo" sortName="bpmf005" category="Letter" script="bopomofo" production="uni3109" altNames="dbopomofo" description="BOPOMOFO LETTER D" />
+    <glyph unicode="310A" name="t-bopomofo" sortName="bpmf006" category="Letter" script="bopomofo" production="uni310A" altNames="tbopomofo" description="BOPOMOFO LETTER T" />
+    <glyph unicode="310B" name="n-bopomofo" sortName="bpmf007" category="Letter" script="bopomofo" production="uni310B" altNames="nbopomofo" description="BOPOMOFO LETTER N" />
+    <glyph unicode="310C" name="l-bopomofo" sortName="bpmf008" category="Letter" script="bopomofo" production="uni310C" altNames="lbopomofo" description="BOPOMOFO LETTER L" />
+    <glyph unicode="310D" name="g-bopomofo" sortName="bpmf009" category="Letter" script="bopomofo" production="uni310D" altNames="gbopomofo" description="BOPOMOFO LETTER G" />
+    <glyph unicode="310E" name="k-bopomofo" sortName="bpmf010" category="Letter" script="bopomofo" production="uni310E" altNames="kbopomofo" description="BOPOMOFO LETTER K" />
+    <glyph unicode="310F" name="h-bopomofo" sortName="bpmf011" category="Letter" script="bopomofo" production="uni310F" altNames="hbopomofo" description="BOPOMOFO LETTER H" />
+    <glyph unicode="3110" name="j-bopomofo" sortName="bpmf012" category="Letter" script="bopomofo" production="uni3110" altNames="jbopomofo" description="BOPOMOFO LETTER J" />
+    <glyph unicode="3111" name="q-bopomofo" sortName="bpmf013" category="Letter" script="bopomofo" production="uni3111" altNames="qbopomofo" description="BOPOMOFO LETTER Q" />
+    <glyph unicode="3112" name="x-bopomofo" sortName="bpmf014" category="Letter" script="bopomofo" production="uni3112" altNames="xbopomofo" description="BOPOMOFO LETTER X" />
+    <glyph unicode="3113" name="zh-bopomofo" sortName="bpmf015" category="Letter" script="bopomofo" production="uni3113" altNames="zhbopomofo" description="BOPOMOFO LETTER ZH" />
+    <glyph unicode="3114" name="ch-bopomofo" sortName="bpmf016" category="Letter" script="bopomofo" production="uni3114" altNames="chbopomofo" description="BOPOMOFO LETTER CH" />
+    <glyph unicode="3115" name="sh-bopomofo" sortName="bpmf017" category="Letter" script="bopomofo" production="uni3115" altNames="shbopomofo" description="BOPOMOFO LETTER SH" />
+    <glyph unicode="3116" name="r-bopomofo" sortName="bpmf018" category="Letter" script="bopomofo" production="uni3116" altNames="rbopomofo" description="BOPOMOFO LETTER R" />
+    <glyph unicode="3117" name="z-bopomofo" sortName="bpmf019" category="Letter" script="bopomofo" production="uni3117" altNames="zbopomofo" description="BOPOMOFO LETTER Z" />
+    <glyph unicode="3118" name="c-bopomofo" sortName="bpmf020" category="Letter" script="bopomofo" production="uni3118" altNames="cbopomofo" description="BOPOMOFO LETTER C" />
+    <glyph unicode="3119" name="s-bopomofo" sortName="bpmf021" category="Letter" script="bopomofo" production="uni3119" altNames="sbopomofo" description="BOPOMOFO LETTER S" />
+    <glyph unicode="311A" name="a-bopomofo" sortName="bpmf022" category="Letter" script="bopomofo" production="uni311A" altNames="abopomofo" description="BOPOMOFO LETTER A" />
+    <glyph unicode="311B" name="o-bopomofo" sortName="bpmf023" category="Letter" script="bopomofo" production="uni311B" altNames="obopomofo" description="BOPOMOFO LETTER O" />
+    <glyph unicode="311C" name="e-bopomofo" sortName="bpmf024" category="Letter" script="bopomofo" production="uni311C" altNames="ebopomofo" description="BOPOMOFO LETTER E" />
+    <glyph unicode="311D" name="eh-bopomofo" sortName="bpmf025" category="Letter" script="bopomofo" production="uni311D" altNames="ehbopomofo" description="BOPOMOFO LETTER EH" />
+    <glyph unicode="311E" name="ai-bopomofo" sortName="bpmf026" category="Letter" script="bopomofo" production="uni311E" altNames="aibopomofo" description="BOPOMOFO LETTER AI" />
+    <glyph unicode="311F" name="ei-bopomofo" sortName="bpmf027" category="Letter" script="bopomofo" production="uni311F" altNames="eibopomofo" description="BOPOMOFO LETTER EI" />
+    <glyph unicode="3120" name="au-bopomofo" sortName="bpmf028" category="Letter" script="bopomofo" production="uni3120" altNames="aubopomofo" description="BOPOMOFO LETTER AU" />
+    <glyph unicode="3121" name="ou-bopomofo" sortName="bpmf029" category="Letter" script="bopomofo" production="uni3121" altNames="oubopomofo" description="BOPOMOFO LETTER OU" />
+    <glyph unicode="3122" name="an-bopomofo" sortName="bpmf030" category="Letter" script="bopomofo" production="uni3122" altNames="anbopomofo" description="BOPOMOFO LETTER AN" />
+    <glyph unicode="3123" name="en-bopomofo" sortName="bpmf031" category="Letter" script="bopomofo" production="uni3123" altNames="enbopomofo" description="BOPOMOFO LETTER EN" />
+    <glyph unicode="3124" name="ang-bopomofo" sortName="bpmf032" category="Letter" script="bopomofo" production="uni3124" altNames="angbopomofo" description="BOPOMOFO LETTER ANG" />
+    <glyph unicode="3125" name="eng-bopomofo" sortName="bpmf033" category="Letter" script="bopomofo" production="uni3125" altNames="engbopomofo" description="BOPOMOFO LETTER ENG" />
+    <glyph unicode="3126" name="er-bopomofo" sortName="bpmf034" category="Letter" script="bopomofo" production="uni3126" altNames="erbopomofo" description="BOPOMOFO LETTER ER" />
+    <glyph unicode="3127" name="i-bopomofo" sortName="bpmf035" category="Letter" script="bopomofo" production="uni3127" altNames="ibopomofo" description="BOPOMOFO LETTER I" />
+    <glyph unicode="3128" name="u-bopomofo" sortName="bpmf036" category="Letter" script="bopomofo" production="uni3128" altNames="ubopomofo" description="BOPOMOFO LETTER U" />
+    <glyph unicode="3129" name="iu-bopomofo" sortName="bpmf037" category="Letter" script="bopomofo" production="uni3129" altNames="iubopomofo" description="BOPOMOFO LETTER IU" />
+    <glyph unicode="312A" name="v-bopomofo" sortName="bpmf041" category="Letter" script="bopomofo" production="uni312A" description="BOPOMOFO LETTER V" />
+    <glyph unicode="312B" name="ng-bopomofo" sortName="bpmf042" category="Letter" script="bopomofo" production="uni312B" description="BOPOMOFO LETTER NG" />
+    <glyph unicode="312C" name="gn-bopomofo" sortName="bpmf043" category="Letter" script="bopomofo" production="uni312C" description="BOPOMOFO LETTER GN" />
+    <glyph unicode="312D" name="ih-bopomofo" sortName="bpmf044" category="Letter" script="bopomofo" production="uni312D" description="BOPOMOFO LETTER IH" />
+    <glyph unicode="312E" name="oDotabove-bopomofo" sortName="bpmf099" category="Letter" script="bopomofo" production="uni312E" description="BOPOMOFO LETTER O WITH DOT ABOVE" />
+    <glyph unicode="312F" name="nn-bopomofo" sortName="bpmf045" category="Letter" script="bopomofo" production="uni312F" description="BOPOMOFO LETTER NN" />
+    <glyph unicode="31A0" name="bu-bopomofo" sortName="bpmf051" category="Letter" script="bopomofo" production="uni31A0" description="BOPOMOFO LETTER BU" />
+    <glyph unicode="31A1" name="zi-bopomofo" sortName="bpmf052" category="Letter" script="bopomofo" production="uni31A1" description="BOPOMOFO LETTER ZI" />
+    <glyph unicode="31A2" name="ji-bopomofo" sortName="bpmf053" category="Letter" script="bopomofo" production="uni31A2" description="BOPOMOFO LETTER JI" />
+    <glyph unicode="31A3" name="gu-bopomofo" sortName="bpmf054" category="Letter" script="bopomofo" production="uni31A3" description="BOPOMOFO LETTER GU" />
+    <glyph unicode="31A4" name="ee-bopomofo" sortName="bpmf055" category="Letter" script="bopomofo" production="uni31A4" description="BOPOMOFO LETTER EE" />
+    <glyph unicode="31A5" name="enn-bopomofo" sortName="bpmf056" category="Letter" script="bopomofo" production="uni31A5" description="BOPOMOFO LETTER ENN" />
+    <glyph unicode="31A6" name="oo-bopomofo" sortName="bpmf057" category="Letter" script="bopomofo" production="uni31A6" description="BOPOMOFO LETTER OO" />
+    <glyph unicode="31A7" name="onn-bopomofo" sortName="bpmf058" category="Letter" script="bopomofo" production="uni31A7" description="BOPOMOFO LETTER ONN" />
+    <glyph unicode="31A8" name="ir-bopomofo" sortName="bpmf059" category="Letter" script="bopomofo" production="uni31A8" description="BOPOMOFO LETTER IR" />
+    <glyph unicode="31A9" name="ann-bopomofo" sortName="bpmf060" category="Letter" script="bopomofo" production="uni31A9" description="BOPOMOFO LETTER ANN" />
+    <glyph unicode="31AA" name="inn-bopomofo" sortName="bpmf061" category="Letter" script="bopomofo" production="uni31AA" description="BOPOMOFO LETTER INN" />
+    <glyph unicode="31AB" name="unn-bopomofo" sortName="bpmf062" category="Letter" script="bopomofo" production="uni31AB" description="BOPOMOFO LETTER UNN" />
+    <glyph unicode="31AC" name="im-bopomofo" sortName="bpmf063" category="Letter" script="bopomofo" production="uni31AC" description="BOPOMOFO LETTER IM" />
+    <glyph unicode="31AD" name="ngg-bopomofo" sortName="bpmf064" category="Letter" script="bopomofo" production="uni31AD" description="BOPOMOFO LETTER NGG" />
+    <glyph unicode="31AE" name="ainn-bopomofo" sortName="bpmf065" category="Letter" script="bopomofo" production="uni31AE" description="BOPOMOFO LETTER AINN" />
+    <glyph unicode="31AF" name="aunn-bopomofo" sortName="bpmf066" category="Letter" script="bopomofo" production="uni31AF" description="BOPOMOFO LETTER AUNN" />
+    <glyph unicode="31B0" name="am-bopomofo" sortName="bpmf067" category="Letter" script="bopomofo" production="uni31B0" description="BOPOMOFO LETTER AM" />
+    <glyph unicode="31B1" name="om-bopomofo" sortName="bpmf068" category="Letter" script="bopomofo" production="uni31B1" description="BOPOMOFO LETTER OM" />
+    <glyph unicode="31B2" name="ong-bopomofo" sortName="bpmf069" category="Letter" script="bopomofo" production="uni31B2" description="BOPOMOFO LETTER ONG" />
+    <glyph unicode="31B3" name="innn-bopomofo" sortName="bpmf070" category="Letter" script="bopomofo" production="uni31B3" description="BOPOMOFO LETTER INNN" />
+    <glyph unicode="31B4" name="finalp-bopomofo" sortName="bpmf081" category="Letter" script="bopomofo" production="uni31B4" description="BOPOMOFO FINAL LETTER P" />
+    <glyph unicode="31B5" name="finalt-bopomofo" sortName="bpmf082" category="Letter" script="bopomofo" production="uni31B5" description="BOPOMOFO FINAL LETTER T" />
+    <glyph unicode="31B6" name="finalk-bopomofo" sortName="bpmf085" category="Letter" script="bopomofo" production="uni31B6" description="BOPOMOFO FINAL LETTER K" />
+    <glyph unicode="31B7" name="finalh-bopomofo" sortName="bpmf084" category="Letter" script="bopomofo" production="uni31B7" description="BOPOMOFO FINAL LETTER H" />
+    <glyph unicode="31B8" name="gh-bopomofo" sortName="bpmf091" category="Letter" script="bopomofo" production="uni31B8" description="BOPOMOFO LETTER GH" />
+    <glyph unicode="31B9" name="lh-bopomofo" sortName="bpmf092" category="Letter" script="bopomofo" production="uni31B9" description="BOPOMOFO LETTER LH" />
+    <glyph unicode="31BA" name="zy-bopomofo" sortName="bpmf093" category="Letter" script="bopomofo" production="uni31BA" description="BOPOMOFO LETTER ZY" />
+    <glyph unicode="31BB" name="finalg-bopomofo" sortName="bpmf083" category="Letter" script="bopomofo" production="uni31BB" description="BOPOMOFO FINAL LETTER G" />
+    <glyph unicode="31BC" name="gw-bopomofo" sortName="bpmf071" category="Letter" script="bopomofo" production="uni31BC" description="BOPOMOFO LETTER GW" />
+    <glyph unicode="31BD" name="kw-bopomofo" sortName="bpmf072" category="Letter" script="bopomofo" production="uni31BD" description="BOPOMOFO LETTER KW" />
+    <glyph unicode="31BE" name="oe-bopomofo" sortName="bpmf073" category="Letter" script="bopomofo" production="uni31BE" description="BOPOMOFO LETTER OE" />
+    <glyph unicode="31BF" name="ah-bopomofo" sortName="bpmf074" category="Letter" script="bopomofo" production="uni31BF" description="BOPOMOFO LETTER AH" />
+
+    <glyph unicode="02D9" name="dotaccent" sortName="as002" decompose="dotaccentcomb" category="Mark" subCategory="Spacing" description="DOT ABOVE" />
+    <glyph unicode="02C9" name="firsttonechinese" sortName="as012" category="Mark" subCategory="Spacing" production="uni02C9" description="MODIFIER LETTER MACRON" />
+    <glyph unicode="02CA" name="secondtonechinese" sortName="as013" category="Mark" subCategory="Spacing" production="uni02CA" description="MODIFIER LETTER ACUTE ACCENT" />
+    <glyph unicode="02C7" name="caron" sortName="as014" decompose="caroncomb" category="Mark" subCategory="Spacing" description="CARON" />
+    <glyph unicode="02CB" name="fourthtonechinese" sortName="as015" category="Mark" subCategory="Spacing" production="uni02CB" description="MODIFIER LETTER GRAVE ACCENT" />
+    <glyph unicode="02EA" name="thirdtoneminnan" sortName="as016" category="Mark" subCategory="Spacing" production="uni02EA" description="MODIFIER LETTER YIN DEPARTING TONE MARK" />
+    <glyph unicode="02EB" name="senventhtoneminnan" sortName="as017" category="Mark" subCategory="Spacing" production="uni02EB" description="MODIFIER LETTER YANG DEPARTING TONE MARK" />
+
+	<glyph name="oo-poj" decompose="o, dotaboverightcomb" category="Letter" subCategory="Lowercase" script="latin" />
+	<glyph name="OO-poj" decompose="O, dotaboverightcomb" category="Letter" subCategory="Uppercase" script="latin" />
+
+	<glyph name="i_hungarumlautcomb" decompose="idotless, hungarumlautcomb" category="Letter" subCategory="Lowercase" script="latin" />
+	<glyph name="i_verticallineabovecomb" decompose="idotless, verticallineabovecomb" category="Letter" subCategory="Uppercase" script="latin" />
+
+
+</glyphData>

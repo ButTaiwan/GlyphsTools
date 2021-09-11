@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE glyphData [
+<!ELEMENT glyphData (glyph)+>
+<!ELEMENT glyph EMPTY>
+<!ATTLIST glyph
+	unicode			CDATA		#IMPLIED
+	unicodeLegecy	CDATA		#IMPLIED
+	name			CDATA		#REQUIRED
+	sortName		CDATA		#IMPLIED
+	sortNameKeep	CDATA		#IMPLIED
+	category		CDATA		#REQUIRED
+	subCategory		CDATA		#IMPLIED
+	script			CDATA		#IMPLIED
+	description		CDATA		#IMPLIED
+	production		CDATA		#IMPLIED
+	altNames		CDATA		#IMPLIED
+	decompose		CDATA		#IMPLIED
+	anchors			CDATA		#IMPLIED
+	accents			CDATA		#IMPLIED>
+]>
+<glyphData>
+	<glyph name="oo-poj" decompose="o, dotaboverightcomb" category="Letter" subCategory="Lowercase" script="latin" />
+	<glyph name="OO-poj" decompose="O, dotaboverightcomb" category="Letter" subCategory="Uppercase" script="latin" />
+
+	<glyph name="i_hungarumlautcomb" decompose="idotless, hungarumlautcomb" category="Letter" subCategory="Lowercase" script="latin" />
+	<glyph name="i_verticallineabovecomb" decompose="idotless, verticallineabovecomb" category="Letter" subCategory="Uppercase" script="latin" />
+</glyphData>
