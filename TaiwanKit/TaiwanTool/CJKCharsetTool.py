@@ -1,4 +1,4 @@
-#MenuTitle: 標註漢字字集
+﻿#MenuTitle: 標註漢字字集
 # -*- coding: utf-8 -*-
 #
 # (c) But Ko, 2021.

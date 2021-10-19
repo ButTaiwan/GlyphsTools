@@ -1,4 +1,4 @@
-#MenuTitle: 擴大選取範圍到完整外框
+﻿#MenuTitle: 擴大選取範圍到完整外框
 # -*- coding: utf-8 -*-
 #
 # (c) But Ko, 2021.
