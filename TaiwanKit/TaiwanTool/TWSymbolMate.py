@@ -5,6 +5,7 @@
 # https://zi-hi.com/
 # https://www.facebook.com/groups/glyphszhtw
 #
+from GlyphsApp import Glyphs
 from vanilla import Window, Button, TextBox, Tabs, PopUpButton, Slider, Group, HorizontalLine
 from Foundation import NSPoint
 import math

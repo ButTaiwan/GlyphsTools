@@ -7,6 +7,8 @@
 # https://www.facebook.com/groups/glyphszhtw
 #
 
+from GlyphsApp import Glyphs
+
 if Glyphs.font.selectedLayers is not None and len(Glyphs.font.selectedLayers) == 1:
 	layer = Glyphs.font.selectedLayers[0]
 	nodes = [obj for obj in layer.selection if type(obj)==GSNode]
