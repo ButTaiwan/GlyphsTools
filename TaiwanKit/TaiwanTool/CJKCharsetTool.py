@@ -7,8 +7,8 @@
 # https://www.facebook.com/groups/glyphszhtw
 #
 
-from GlyphsApp import Glyphs
 from __future__ import division, print_function, unicode_literals
+from GlyphsApp import Glyphs
 
 class CJKCharsetTool:
 	charsets = {
