@@ -9,7 +9,7 @@
 					subGroup = (
 						{
 							name = "一字多音審訂表";
-							coverage = (
+							list = (
 								uni4E00, uni4E01, uni4E03, uni4E07, uni4E08, uni4E09, uni4E0A, uni4E0B, uni4E0F, uni4E10, 
 								uni4E11, uni4E0D, uni4E14, uni4E15, uni4E16, uni4E18, uni4E19, uni4E1E, uni4E1F, uni4E26, 
 								uni4E2B, uni4E2D, uni4E30, uni4E32, uni4E38, uni51E1, uni4E39, uni4E3B, uni4E43, uni4E45, 
@@ -541,7 +541,7 @@
 						},
 						{
 							name = "常用標準字體表";
-							coverage = (
+							list = (
 								uni4E00, uni4E01, uni4E03, uni4E09, uni4E0B, uni4E08, uni4E0A, uni4E11, uni4E10, uni4E0D, 
 								uni4E19, uni4E16, uni4E15, uni4E14, uni4E18, uni4E1E, uni4E1F, uni4E26, uni4E2B, uni4E2D, 
 								uni4E32, uni4E38, uni51E1, uni4E39, uni4E3B, uni4E43, uni4E45, uni4E48, uni4E4B, uni5C39, 
@@ -1027,7 +1027,7 @@
 						},
 						{
 							name = "次常用標準字體表";
-							coverage = (
+							list = (
 								uni4E07, uni4E0C, uni4E0F, uni5187, uni4E0E, uni4E2E, uni4E30, uni4E31, uni4E42, uni4E5C, 
 								uni4E8D, uni4E93, uni4EA2, uni4EB3, uni4EB6, uni4EB9, uni4EC2, uni4EC9, uni4EE8, uni4EDC, 
 								uni4EE9, uni4EE1, uni4EDD, uni4F0E, uni4F18, uni4F2C, uni4EF5, uni4F14, uni4F0B, uni4EF1, 
@@ -1667,7 +1667,7 @@
 						},
 						{
 							name = "Big5常用";
-							coverage = (
+							list = (
 								uni4E00, uni4E59, uni4E01, uni4E03, uni4E43, uni4E5D, uni4E86, uni4E8C, uni4EBA, uni513F, 
 								uni5165, uni516B, uni51E0, uni5200, uni5201, uni529B, uni5315, uni5341, uni535C, uni53C8, 
 								uni4E09, uni4E0B, uni4E08, uni4E0A, uni4E2B, uni4E38, uni51E1, uni4E45, uni4E48, uni4E5F, 
@@ -2213,7 +2213,7 @@
 						},
 						{
 							name = "Big5次常";
-							coverage = (
+							list = (
 								uni5159, uni515B, uni515E, uni515D, uni5161, uni5163, uni55E7, uni74E9, uni7CCE, uni4E42, 
 								uni4E5C, uni51F5, uni531A, uni5382, uni4E07, uni4E0C, uni4E47, uni4E8D, uni56D7, uniFA0C, 
 								uni5C6E, uni5F73, uni4E0F, uni5187, uni4E0E, uni4E2E, uni4E93, uni4EC2, uni4EC9, uni4EC8, 
@@ -2985,7 +2985,7 @@
 						},
 						{
 							name = "台客語漢字";
-							coverage = (
+							list = (
 								uni3401, uni3441, uni34FE, uni3502, uni3578, uni3585, uni35B8, uni35D8, uni35F1, uni3614, 
 								uni361B, uni361D, uni372E, uni3737, uni3757, uni3769, uni3909, uni3915, uni39C1, uni39CC, 
 								uni39CE, uni39D2, uni39E1, uni39E3, uni39FB, uni39FE, uni3A02, uni3A11, uni3A28, uni3A2A, 
@@ -3525,7 +3525,7 @@
 						},
 						{
 							name = "重編國語辭典";
-							coverage = (
+							list = (
 								uni516B, uni4ECB, uni65BC, uni4E03, uni8207, uni4E5D, uni4E4B, uni9593, uni7684, uni81EA, 
 								uni7136, uni6578, uni516D, uni5927, uni5BEB, uni4F5C, uni634C, uni963F, uni62C9, uni4F2F, 
 								uni5B57, uni59D3, uni5982, uni6F22, uni4EE3, uni6709, uni897F, uni57DF, uni4EBA, uni6ED1, 
@@ -4546,7 +4546,7 @@
 						},
 						{
 							name = "通用參考字表";
-							coverage = (
+							list = (
 								uni34DF, uni34E4, uni35A1, uni35AD, uni35BF, uni35CE, uni35FE, uni362D, uni39EC, uni39FE, 
 								uni3A18, uni3A52, uni3A57, uni3A67, uni3B39, uni3DDB, uni3DEB, uni3E74, uni406A, uni40DF, 
 								uni4180, uni44EA, uni4989, uni4C7D, uni4E00, uni4E01, uni4E03, uni4E07, uni4E08, uni4E09, 
@@ -5241,7 +5241,7 @@
 						},
 						{
 							name = "國小生字(參考)";
-							coverage = (
+							list = (
 								uni4E00, uni4E8C, uni4E09, uni5341, uni6728, uni79BE, uni4E0A, uni4E0B, uni571F, uni500B, 
 								uni516B, uni5165, uni5927, uni5929, uni4EBA, uni706B, uni6587, uni516D, uni4E03, uni5152, 
 								uni4E5D, uni7121, uni53E3, uni65E5, uni4E2D, uni4E86, uni5B50, uni9580, uni6708, uni4E0D, 
@@ -5483,7 +5483,7 @@
 						},
 						{
 							name = "前600姓氏用字";
-							coverage = (
+							list = (
 								uni9673, uni6797, uni9EC3, uni5F35, uni674E, uni738B, uni5433, uni5289, uni8521, uni694A, 
 								uni8A31, uni912D, uni8B1D, uni6D2A, uni90ED, uni90B1, uni66FE, uni5ED6, uni8CF4, uni5F90, 
 								uni5468, uni8449, uni8607, uni838A, uni6C5F, uni5442, uni4F55, uni856D, uni7F85, uni9AD8, 
@@ -5548,7 +5548,7 @@
 						},
 						{
 							name = "前1000地名用字";
-							coverage = (
+							list = (
 								uni5E02, uni7E23, uni5340, uni8DEF, uni8857, uni4E2D, uni6771, uni5357, uni96C4, uni5317, 
 								uni81FA, uni5712, uni9109, uni65B0, uni5316, uni6797, uni93AE, uni9AD8, uni7AF9, uni6843, 
 								uni5927, uni5C71, uni7FA9, uni862D, uni84EE, uni5F70, uni4E09, uni5C4F, uni4E8C, uni6817, 
@@ -5652,11 +5652,11 @@
 							);
 						},
 						{
-							name = "綜合字頻表";
+							name = "網路字頻表";
 							subGroup = (
 								{
 									name = "前1000";
-									coverage = (
+									list = (
 										uni4E00, uni4E8C, uni4E09, uni56DB, uni4E94, uni516D, uni4E03, uni516B, uni4E5D, uni3007, 
 										uni58F9, uni8CB3, uni53C3, uni8086, uni4F0D, uni9678, uni67D2, uni634C, uni7396, uni96F6, 
 										uni5341, uni767E, uni5343, uni62FE, uni4F70, uni4EDF, uni842C, uni5143, uni5713, uni6574, 
@@ -5761,7 +5761,7 @@
 								},
 								{
 									name = "前2000";
-									coverage = (
+									list = (
 										uni72AC, uni7CF8, uni5915, uni8D64, uni866B, uni7FBD, uni4E38, uni5CA9, uni6C7D, uni5F13, 
 										uni5144, uni77E2, uni5BFA, uni6674, uni8239, uni4F53, uni4E07, uni9CF4, uni66DC, uni59D4, 
 										uni6CF3, uni592E, uni5BD2, uni5CB8, uni541B, uni5EAB, uni796D, uni76BF, uni4ED5, uni8A69, 
@@ -5866,7 +5866,7 @@
 								},
 								{
 									name = "前3000";
-									coverage = (
+									list = (
 										uni522A, uni9189, uni606D, uni5875, uni4FCF, uni6458, uni6492, uni6F06, uni6D3D, uni5B30, 
 										uni6F51, uni6148, uni6367, uni51DD, uni8774, uni62CB, uni699C, uni6EC5, uni88C2, uni5049, 
 										uni82B3, uni5DE1, uni5E7D, uni7CDF, uni6EF7, uni8292, uni6842, uni6182, uni5949, uni8E64, 
@@ -5971,7 +5971,7 @@
 								},
 								{
 									name = "前4000";
-									coverage = (
+									list = (
 										uni8259, uni79B1, uni8338, uni6E5B, uni5ED3, uni5A36, uni7015, uni82B9, uni8309, uni6850, 
 										uni84C4, uni66D6, uni86D9, uni714C, uni70AE, uni7E79, uni7901, uni7172, uni62D9, uni62EF, 
 										uni5974, uni8814, uni69A8, uni5937, uni76E5, uni60DF, uni779E, uni746F, uni52C3, uni4EA8, 
@@ -6076,7 +6076,7 @@
 								},
 								{
 									name = "前5000";
-									coverage = (
+									list = (
 										uni8E34, uni73EE, uni96CD, uni849E, uni5180, uni6538, uni5CED, uni947F, uni568F, uni8E4B, 
 										uni9E9D, uni8712, uni5556, uni582F, uni504C, uni75FA, uni873F, uni778B, uni8C4C, uni88F4, 
 										uni6994, uni60D5, uni91C9, uni5703, uni7F94, uni658C, uni968D, uni557C, uni68E0, uni6D19, 
@@ -6181,7 +6181,7 @@
 								},
 								{
 									name = "前6000";
-									coverage = (
+									list = (
 										uni9095, uni8052, uni5315, uni9744, uni5FE1, uni9B7D, uni4F09, uni84C0, uni9F3E, uni7619, 
 										uni83C0, uni92D0, uni9114, uni7252, uni9211, uni9477, uni5F3C, uni68F1, uni846F, uni8892, 
 										uni8F0A, uni8AC4, uni500F, uni9ED4, uni5F08, uni8E49, uni8DCE, uni58AC, uni92CC, uni62FD, 
@@ -6286,7 +6286,7 @@
 								},
 								{
 									name = "前7000";
-									coverage = (
+									list = (
 										uni69C2, uni747D, uni965F, uni64A2, uni771B, uni6698, uni8AF5, uni6D3A, uni6D60, uni8125, 
 										uni8476, uni73FD, uni89DA, uni5A51, uni7DB9, uni5ECB, uni80C7, uni9D23, uni6C10, uni600D, 
 										uni748A, uni753E, uni84CD, uni83DF, uni8921, uni8423, uni82B4, uni7B2B, uni6F94, uni827D, 
@@ -6391,7 +6391,7 @@
 								},
 								{
 									name = "前8000";
-									coverage = (
+									list = (
 										uni969E, uni9927, uni91F9, uni9205, uni7472, uni794B, uni6F3A, uni6F43, uni6E22, uni96C3, 
 										uni56CB, uni6E1F, uni7895, uni4F9E, uni9185, uni8B16, uni57BF, uni9B3F, uni867A, uni64B1, 
 										uni800E, uni92A7, uni50AF, uni963C, uni5216, uni7D9E, uni87A3, uni5465, uni9E83, uni97A2, 
@@ -6496,7 +6496,7 @@
 								},
 								{
 									name = "前9000";
-									coverage = (
+									list = (
 										uni8E9D, uni65BF, uni9CE6, uni8E90, uni8DA7, uni8DB2, uni837A, uni9624, uni83A5, uni83E5, 
 										uni8765, uni875B, uni669F, uni6965, uni844E, uni6949, uni8467, uni6932, uni6917, uni871E, 
 										uni6906, uni96AC, uni677B, uni8558, uni67BA, uni85DF, uni8618, uni861E, uni8626, uni8629, 
@@ -6601,7 +6601,7 @@
 								},
 								{
 									name = "前10000";
-									coverage = (
+									list = (
 										uni9A4E, uni640C, uni64D6, uni605B, uni8B0D, uni558C, uni8445, uni7E72, uni962D, uni856B, 
 										uni9E9A, uni903F, uni5864, uni59FC, uni6433, uni84F7, uni834D, uni59FD, uni9BD7, uni684D, 
 										uni547A, uni5BCD, uni5EC6, uni9C2B, uni719C, uni9049, uni6196, uni7FFD, uni9395, uni9DB8, 
@@ -6706,7 +6706,7 @@
 								},
 								{
 									name = "異體補充";
-									coverage = (
+									list = (
 										uni5B66, uni4F1A, uni9EC4, uni56FD, uni6570, uni58F0, uni663C, uni70B9, uni5F53, uni5185, 
 										uni9EA6, uni6765, uni533B, uni6A2A, uni6E29, uni533A, uni53F7, uni5199, uni793C, uni5F84, 
 										uni53C2, uni6B8B, uni8F9E, uni9759, uni6D45, uni4E89, uni706F, uni65E7, uni6761, uni72B6, 
@@ -6781,7 +6781,7 @@
 								},
 								{
 									name = "粵語補充";
-									coverage = (
+									list = (
 										uni8FCB, uni34E4, uni35AD, uni35CE, uni35FE, uni3A18, uni3DEB, uni406A, uni44EA, uni4C7D, 
 										uni4E78, uni519A, uni51A7, uni528F, uni5414, uni5497, uni54CB, uni5513, uni551E, uni5569, 
 										uni556B, uni5571, uni5572, uni55BA, uni55BC, uni55F0, uni55F1, uni5605, uni5622, uni5625, 
@@ -6807,11 +6807,11 @@
 							);
 						},
 						{
-							name = "整合字頻表";
+							name = "字典字頻表";
 							subGroup = (
 								{
 									name = "前1000";
-									coverage = (
+									list = (
 										uni7684, uni4E00, uni5728, uni6709, uni4E0D, uni4E86, uni662F, uni4EBA, uni5927, uni4E0A, 
 										uni4E2D, uni6642, uni4F86, uni751F, uni5730, uni9019, uni7528, uni51FA, uni6703, uni570B, 
 										uni4E0B, uni5230, uni904E, uni5E74, uni5206, uni5C0D, uni884C, uni6210, uni5F8C, uni9762, 
@@ -6916,7 +6916,7 @@
 								},
 								{
 									name = "前2000";
-									coverage = (
+									list = (
 										uni5EF3, uni65AF, uni6DFA, uni6163, uni67D3, uni731B, uni7AEF, uni5EB7, uni7E2B, uni907F, 
 										uni5C48, uni5B97, uni8AC7, uni9EB5, uni758F, uni6F0F, uni8C50, uni4ED8, uni7E23, uni9732, 
 										uni584A, uni5371, uni5EA7, uni6E9C, uni4F34, uni65BC, uni6182, uni8DE1, uni723E, uni818F, 
@@ -7021,7 +7021,7 @@
 								},
 								{
 									name = "前3000";
-									coverage = (
+									list = (
 										uni6A94, uni4E11, uni8D66, uni76EA, uni53E8, uni7AAF, uni814E, uni6F20, uni67FF, uni82DB, 
 										uni8650, uni7D46, uni6746, uni6749, uni7FD5, uni9080, uni76DE, uni77AA, uni6452, uni72F8, 
 										uni5BE8, uni7621, uni9C57, uni5C46, uni6817, uni6E3A, uni69CC, uni634F, uni7728, uni81D8, 
@@ -7126,7 +7126,7 @@
 								},
 								{
 									name = "前4000";
-									coverage = (
+									list = (
 										uni5556, uni7422, uni76CE, uni64BF, uni67CF, uni95B9, uni6085, uni980C, uni62D9, uni8514, 
 										uni62F1, uni8303, uni695E, uni7E6D, uni5B8F, uni5EFF, uni54C7, uni5FB9, uni6070, uni6577, 
 										uni55E4, uni52C3, uni5321, uni908F, uni8FEA, uni8247, uni92B3, uni4E4D, uni7DEF, uni7235, 
@@ -7231,7 +7231,7 @@
 								},
 								{
 									name = "前5000";
-									coverage = (
+									list = (
 										uni6B67, uni8084, uni7CF0, uni9871, uni7AA3, uni5F07, uni8B14, uni9821, uni651C, uni6248, 
 										uni7109, uni7FE1, uni9870, uni8822, uni7540, uni9C31, uni6CB8, uni5A29, uni6734, uni8760, 
 										uni9E1A, uni8D6B, uni6147, uni752C, uni9761, uni811B, uni83E0, uni8B2C, uni943A, uni8568, 
@@ -7336,7 +7336,7 @@
 								},
 								{
 									name = "前6000";
-									coverage = (
+									list = (
 										uni6C55, uni636B, uni7285, uni91A2, uni7566, uni91E6, uni5E43, uni5AF5, uni505D, uni74A3, 
 										uni6E53, uni7D13, uni797A, uni5FD0, uni6ADB, uni9932, uni5FAC, uni999D, uni630C, uni6116, 
 										uni7A9E, uni7E34, uni5131, uni6F26, uni80D7, uni8E42, uni60DA, uni6E25, uni547E, uni5AF2, 
@@ -7441,7 +7441,7 @@
 								},
 								{
 									name = "前7000";
-									coverage = (
+									list = (
 										uni6E27, uni915A, u25D0A, u296E9, u2028E, uni62BA, uni6A05, uni781B, uni6440, uni8F25, 
 										uni601B, uni8037, uni93AC, uni9BC1, uni9EE7, uni6EB4, uni79BA, uni8A4F, uni8234, uni52F0, 
 										uni8347, uni8C94, uni9147, uni8E69, uni9B90, uni66BE, uni5A78, uni813D, uni5A17, uni6581, 
@@ -7546,7 +7546,7 @@
 								},
 								{
 									name = "前8000";
-									coverage = (
+									list = (
 										uni7DC5, uni7485, u22AE6, uni5233, uni5D52, uni6EB1, uni9954, uni55D0, uni77DE, uni9DBC, 
 										uni6AE8, uni77CD, uni7B90, uni90A8, uni9EFB, uni9688, uni3FF8, uni911C, uni9185, uni8DEC, 
 										uni7242, uni8AE0, uni4F64, uni7719, uni895C, uni8DB5, uni6E49, uni6844, uni86B0, uni7FFD, 
@@ -7651,7 +7651,7 @@
 								},
 								{
 									name = "前9000";
-									coverage = (
+									list = (
 										uni8801, uni77F2, uni75E4, uni92A6, uni857B, uni8278, uni946D, uni9B9E, uni5255, uni9C23, 
 										uni6EC0, uni9C39, uni97BF, uni8ADD, uni92EE, uni5396, uni9958, uni62BB, uni530B, uni7451, 
 										uni5C7A, uni9B11, uni893E, uni76ED, uni861E, uni900C, uni8268, uni6375, uni9E8C, uni55E2, 
@@ -7756,7 +7756,7 @@
 								},
 								{
 									name = "前10000";
-									coverage = (
+									list = (
 										uni7648, uni85FE, uni5D95, uni57F5, uni88A8, uni5DD1, uni6F40, uni9D69, uni79B4, uni9799, 
 										uni76EC, uni848D, uni8342, uni69F1, uni7D53, uni9173, uni6EA6, uni8429, uni8837, uni9297, 
 										uni8C8F, uni5FE3, uni52B9, uni5220, uni629B, uni5451, uni5204, uni6898, uni5013, uni73A4, 
@@ -7868,7 +7868,7 @@
 					subGroup = (
 						{
 							name = "組合調號";
-							coverage = (
+							list = (
 								acutecomb,
 								gravecomb,
 								circumflexcomb,
@@ -7882,7 +7882,7 @@
 						},
 						{
 							name = "台語POJ字母";
-							coverage = (
+							list = (
 								nmod,
 								Nmod,
 								oo-poj,
@@ -7893,7 +7893,7 @@
 						},
 						{
 							name = "台語組合字母";
-							coverage = (
+							list = (
 								// 2th tone of TL, POJ
 								aacute,
 								eacute,
@@ -7955,14 +7955,14 @@
 								ocaron,
 								ucaron,
 								m_caroncomb,
-								n_caroncomb,
+								ncaron,
 								Acaron,
 								Ecaron,
 								Icaron,
 								Ocaron,
 								Ucaron,
 								M_caroncomb,
-								N_caroncomb,
+								Ncaron,
 								oo-poj_caroncomb,
 								OO-poj_caroncomb,
 
@@ -8041,7 +8041,7 @@
 						},
 						{
 							name = "客語佔格調號";
-							coverage = (
+							list = (
 								circumflex,
 								caron,
 								secondtonechinese,
@@ -8051,7 +8051,7 @@
 						},
 						{
 							name = "族語字母等";
-							coverage = (
+							list = (
 								istroke,
 								Istroke,
 								ubar,
@@ -8068,7 +8068,7 @@
 					subGroup = (
 						{
 							name = "全形標點";
-							coverage = (
+							list = (
 								space-han,
 								comma.full,
 								comma-han,
@@ -8112,7 +8112,7 @@
 						},
 						{
 							name = "全形符號";
-							coverage = (
+							list = (
 								numbersign.full,
 								ampersand.full,
 								asterisk.full,
@@ -8198,7 +8198,7 @@
 						},
 						{
 							name = "建議非全形";
-							coverage = (
+							list = (
 								quoteleft,
 								quoteright,
 								quotedblleft,
@@ -8215,7 +8215,7 @@
 							subGroup = (
 								{
 									name = "基本符號";
-									coverage = (
+									list = (
 										b-bopomofo,
 										p-bopomofo,
 										m-bopomofo,
@@ -8262,7 +8262,7 @@
 								},
 								{
 									name = "方音符號等";
-									coverage = (
+									list = (
 										v-bopomofo,
 										ng-bopomofo,
 										gn-bopomofo,
@@ -8307,7 +8307,7 @@
 								},
 								{
 									name = "直排調號";
-									coverage = (
+									list = (
 										secondtonechinese.vert,
 										caron.vert,
 										fourthtonechinese.vert
@@ -8315,7 +8315,7 @@
 								},
 								{
 									name = "方音韻尾與直排調號";
-									coverage = (
+									list = (
 										thirdtoneminnan.vert,
 										senventhtoneminnan.vert,
 										finalp-bopomofo_dotaccent,
@@ -8339,7 +8339,7 @@
 						},
 						{
 							name = "類漢字";
-							coverage = (
+							list = (
 								zero-han,
 								dittomark,
 								iterationmark-han,
@@ -8350,7 +8350,7 @@
 						},
 						{
 							name = "全形英數㊟";
-							coverage = (
+							list = (
 								zero.full,
 								one.full,
 								two.full,
@@ -8417,7 +8417,7 @@
 						},
 						{
 							name = "羅馬數字㊟";
-							coverage = (
+							list = (
 								One-roman,
 								Two-roman,
 								Three-roman,
@@ -8442,7 +8442,7 @@
 						},
 						{
 							name = "圍繞標號㊟";
-							coverage = (
+							list = (
 								empty.circled,
 								zero.circled,
 								one.circled,
@@ -8502,7 +8502,7 @@
 						},
 						{
 							name = "表格與方塊㊟";
-							coverage = (
+							list = (
 								fullBlock,
 								lowerOneEighthBlock,
 								lowerOneQuarterBlock,
@@ -8561,7 +8561,7 @@
 						},
 						{
 							name = "縮寫合字㊟";
-							coverage = (
+							list = (
 								logSquare,
 								lnSquare,
 								milSquare,
@@ -8579,7 +8579,7 @@
 						},
 						{
 							name = "蘇州碼";
-							coverage = (
+							list = (
 								one-hangzhou,
 								two-hangzhou,
 								three-hangzhou,
@@ -8596,7 +8596,7 @@
 						},
 						{
 							name = "直排符號㊟";
-							coverage = (
+							list = (
 								semicolon.full.vert,
 								colon.full.vert,
 								twodotleader.vert,
@@ -8629,7 +8629,7 @@
 						},
 						{
 							name = "小型標點㊟";
-							coverage = (
+							list = (
 								commasmall,
 								commasmall-han,
 								periodsmall,

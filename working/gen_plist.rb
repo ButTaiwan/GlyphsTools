@@ -76,7 +76,7 @@ def put_list fx, list, tabs, force_next
 	}
 end
 
-fx = File.open('../TaiwanKit/Info/G3/Groups-Taiwan.plist', 'w:utf-8')
+fx = File.open('../ButTaiwanKit/Info/G3/Groups-Taiwan.plist', 'w:utf-8')
 f = File.open('template.plist', 'r:utf-8')
 #tabs = 0
 f.each { |s|
@@ -87,14 +87,14 @@ f.each { |s|
 		put_list fx, list_main, tabs, true
 
 		fx.puts "#{tabs}{"
-		fx.puts "#{tabs}\tname = \"綜合字頻表\";"
+		fx.puts "#{tabs}\tname = \"網路字頻表\";"
 		fx.puts "#{tabs}\tsubGroup = ("
 		put_list fx, list_feqA, tabs+"\t\t", false
 		fx.puts "#{tabs}\t);"
 		fx.puts "#{tabs}},"
 
 		fx.puts "#{tabs}{"
-		fx.puts "#{tabs}\tname = \"整合字頻表\";"
+		fx.puts "#{tabs}\tname = \"字典字頻表\";"
 		fx.puts "#{tabs}\tsubGroup = ("
 		put_list fx, list_feqB, tabs+"\t\t", false
 		fx.puts "#{tabs}\t);"
@@ -106,8 +106,8 @@ f.each { |s|
 f.close
 fx.close
 
-f3 = File.open('../TaiwanKit/Info/G3/Groups-Taiwan.plist', 'r:utf-8')
-f2 = File.open('../TaiwanKit/Info/G2/Groups.plist', 'w:utf-8')
+f3 = File.open('../ButTaiwanKit/Info/G3/Groups-Taiwan.plist', 'r:utf-8')
+f2 = File.open('../ButTaiwanKit/Info/G2/Groups.plist', 'w:utf-8')
 f3.each { |s|
 	f2.print s.gsub(/list\s*=\s*\(/, 'coverage = (')
 }

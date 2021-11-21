@@ -60,14 +60,14 @@ lookup ccmp_tl_poj {
     sub o caroncomb by ocaron;
     sub u caroncomb by ucaron;
     sub m caroncomb by m_caroncomb;
-    sub n caroncomb by n_caroncomb;
+    sub n caroncomb by ncaron;
     sub A caroncomb by Acaron;
     sub E caroncomb by Ecaron;
     sub I caroncomb by Icaron;
     sub O caroncomb by Ocaron;
     sub U caroncomb by Ucaron;
     sub M caroncomb by M_caroncomb;
-    sub N caroncomb by N_caroncomb;
+    sub N caroncomb by Ncaron;
     sub o dotaboverightcomb caroncomb by oo-poj_caroncomb;
     sub O dotaboverightcomb caroncomb by OO-poj_caroncomb;
 
