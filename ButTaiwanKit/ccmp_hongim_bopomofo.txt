@@ -1,0 +1,11 @@
+# 方音符號第8調
+
+lookup ccmp_bopo_1 {
+	lookupflag 0;
+	sub finalg-bopomofo dotaccent by finalg-bopomofo_dotaccent;
+	sub finalh-bopomofo dotaccent by finalh-bopomofo_dotaccent;
+	sub finalk-bopomofo dotaccent by finalk-bopomofo_dotaccent;
+	sub finalp-bopomofo dotaccent by finalp-bopomofo_dotaccent;
+	sub finalt-bopomofo dotaccent by finalt-bopomofo_dotaccent;
+} ccmp_bopo_1;
+lookup ccmp_bopo_1;				
