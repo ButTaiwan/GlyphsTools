@@ -19,9 +19,9 @@
 	accents			CDATA		#IMPLIED>
 ]>
 <glyphData>
-	<glyph name="oo-poj" decompose="o, dotaboverightcomb" category="Letter" subCategory="Lowercase" script="latin" />
-	<glyph name="OO-poj" decompose="O, dotaboverightcomb" category="Letter" subCategory="Uppercase" script="latin" />
+	<glyph name="oo-poj" decompose="o, dotaboverightcomb" category="Letter" case="lower" script="latin" />
+	<glyph name="OO-poj" decompose="O, dotaboverightcomb" category="Letter" case="upper" script="latin" />
 
-	<glyph name="i_hungarumlautcomb" decompose="idotless, hungarumlautcomb" category="Letter" subCategory="Lowercase" script="latin" />
-	<glyph name="i_verticallineabovecomb" decompose="idotless, verticallineabovecomb" category="Letter" subCategory="Uppercase" script="latin" />
+	<glyph name="i_hungarumlautcomb" decompose="idotless, hungarumlautcomb" category="Letter" case="lower" script="latin" />
+	<glyph name="i_verticallineabovecomb" decompose="idotless, verticallineabovecomb" category="Letter" case="upper" script="latin" />
 </glyphData>
